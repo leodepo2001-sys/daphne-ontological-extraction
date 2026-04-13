@@ -1,0 +1,72 @@
+{
+  "capitolo_metadata": {
+    "numero": 1,
+    "titolo": "Daphne"
+  },
+  "entita_marcate": [
+    {
+      "id": "C1_OBJ_001",
+      "oggetto": "Astrolabio",
+      "regime": "reale",
+      "peso_materico": 0.95,
+      "contesto": "Se i capitani avevano imparato a usare l’astrolabio...",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_002",
+      "oggetto": "Libro di bordo",
+      "regime": "reale",
+      "peso_materico": 0.85,
+      "contesto": "Roberto scoprì, aperto e come lasciato interrotto... il libro di bordo.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_003",
+      "oggetto": "Sentore di fiori d'arancio",
+      "regime": "reale",
+      "peso_materico": 0.50,
+      "contesto": "quei suoni trascinassero un sentore di fiori d’arancio e di basilico",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_004",
+      "oggetto": "Ferrante",
+      "regime": "finzione",
+      "peso_materico": 0.15,
+      "contesto": "Pensò a Ferrante, che in quel momento forse cavalcava nei deserti...",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_005",
+      "oggetto": "Rosa sfiorita",
+      "regime": "finzione",
+      "peso_materico": 0.20,
+      "contesto": "Eppure m’inorgoglisco della mia umiliazione e, poiché a tal privilegio son condannato...",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_006",
+      "oggetto": "Zattera",
+      "regime": "reale",
+      "peso_materico": 0.60,
+      "contesto": "Era notte, si era assopito, e non si era reso conto che si stava",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_007",
+      "oggetto": "Falce",
+      "regime": "finzione",
+      "peso_materico": 0.40,
+      "contesto": "raggi dell’astro suo sovrano, dapprima si assottiglia a imagine della falce...",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_008",
+      "oggetto": "Sarcofago",
+      "regime": "finzione",
+      "peso_materico": 0.30,
+      "contesto": "prigioniero del mare che mi difende dal mare, punito dalla clemenza del cielo...",
+      "pagina": null
+    }
+  ]
+}
