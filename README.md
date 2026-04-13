@@ -16,4 +16,4 @@ L'attuale protocollo corregge i limiti di arbitrarietà della versione precedent
 
 ## Struttura del Repository
 - `METODOLOGIA_v1.1.md`: Il prompt di sistema utilizzato per l'estrazione.
-- `/dataset`: Estrazioni JSON validate.
+- `DATA`: Estrazioni JSON validate.
