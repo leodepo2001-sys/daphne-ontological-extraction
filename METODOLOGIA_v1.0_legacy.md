@@ -2,11 +2,11 @@ Agisci come un Data Engineer specializzato in Digital Humanities. Il tuo compito
 
 
 
-### OBIETTIVI DI ARCHITETTURA (Consolidati per il team)
+### OBIETTIVI DI ARCHITETTURA 
 
-- Struttura Gerarchica (Dario): Il dataset deve essere incapsulato in un oggetto "capitolo".
+- Struttura Gerarchica : Il dataset deve essere incapsulato in un oggetto "capitolo".
 
-- Unità di Query (Giacomo): Ogni entità deve essere un record autonomo all'interno di un array, completo di metadati e contesto testuale esatto.
+- Unità di Query : Ogni entità deve essere un record autonomo all'interno di un array, completo di metadati e contesto testuale esatto.
 
 
 
@@ -28,6 +28,4 @@ Agisci come un Data Engineer specializzato in Digital Humanities. Il tuo compito
 
 
 
-### TESTO DA ELABORARE
 
-[INCOLLA QUI IL TESTO DEL CAPITOLO]
