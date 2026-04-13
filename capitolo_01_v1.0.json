@@ -1,0 +1,89 @@
+/data
+{
+  "capitolo_metadata": {
+    "numero": 1,
+    "titolo": "Daphne"
+  },
+  "entita_marcate": [
+    {
+      "id": "C1_OBJ_001",
+      "oggetto": "Astrolabio",
+      "regime": "reale",
+      "peso_materico": 0.95,
+      "contesto": "Se i capitani avevano imparato a usare l’astrolabio, che pure non era cosa alla portata di qualsiasi profano, avrebbero pur imparato a usare il cannocchiale",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_002",
+      "oggetto": "Schioppo",
+      "regime": "reale",
+      "peso_materico": 0.8,
+      "contesto": "Roberto trovò uno schioppo, uno spadone e un coltellaccio.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_003",
+      "oggetto": "Isola",
+      "regime": "reale",
+      "peso_materico": 0.9,
+      "contesto": "L’Isola era lontana, eppure ebbe l’impressione che quei suoni trascinassero un sentore di fiori d’arancio e di basilico...",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_004",
+      "oggetto": "Libro di bordo",
+      "regime": "reale",
+      "peso_materico": 0.85,
+      "contesto": "Roberto scoprì, aperto e come lasciato interrotto, accanto alla penna d’oca e al calamaio, il libro di bordo.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_005",
+      "oggetto": "Daphne (Nave)",
+      "regime": "reale",
+      "peso_materico": 0.8,
+      "contesto": "Roberto procedette sotto la luna alla traversata del ponte, ricordando la prua e i fianchi bombati.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_006",
+      "oggetto": "Scala di Giacobbe",
+      "regime": "reale",
+      "peso_materico": 0.95,
+      "contesto": "da cui pendeva una scaletta di corda... la scala di Giacobbe.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_007",
+      "oggetto": "Barile d'acqua",
+      "regime": "reale",
+      "peso_materico": 0.85,
+      "contesto": "l'istinto deve avergli fatto toccare al buio quel barile... quell'acqua doveva trattenere tanti insetti annegati.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_008",
+      "oggetto": "Notturlabio in rame",
+      "regime": "reale",
+      "peso_materico": 0.9,
+      "contesto": "un bel notturlabio in rame che emanava bagliori fulvi come se fosse in sé una sorgente di luce.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_009",
+      "oggetto": "Sentore di fiori d'arancio e basilico",
+      "regime": "reale",
+      "peso_materico": 0.5,
+      "contesto": "ebbe l'impressione che quei suoni trascinassero un sentore di fiori d’arancio e di basilico.",
+      "pagina": null
+    },
+    {
+      "id": "C1_OBJ_010",
+      "oggetto": "Assedio di Casale (Atmosfera)",
+      "regime": "memoria",
+      "peso_materico": 0.2,
+      "contesto": "Era a Casale, e di fronte a lui si stendeva l’armata spagnola, col suo rumore di carriaggi.",
+      "pagina": null
+    }
+  ]
+}
