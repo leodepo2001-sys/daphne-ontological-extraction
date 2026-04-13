@@ -5,8 +5,8 @@ Dataset strutturato della cultura materiale ne "L'Isola del Giorno Prima" di Umb
 
 Questo repository ospita il dataset strutturato relativo al romanzo *L'Isola del Giorno Prima* di Umberto Eco.
 
-## Stato del Progetto
-In seguito alla fase preliminare di test, il protocollo di estrazione è stato aggiornato alla **versione 1.1** (rilasciata in data odierna) per rispondere a criteri di maggiore rigore scientifico e oggettività numerica.
+## Struttura del Repository
+Il repository è organizzato per versioni, in modo da tracciare l'evoluzione del metodo di estrazione in base ai feedback ricevuti.
 
 ## Note Metodologiche (v1.1)
 L'attuale protocollo corregge i limiti di arbitrarietà della versione precedente introducendo:
