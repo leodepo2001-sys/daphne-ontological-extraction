@@ -8,7 +8,7 @@ Questo repository ospita il dataset strutturato relativo al romanzo *L'Isola del
 ## Struttura del Repository
 Il repository è organizzato per versioni, in modo da tracciare l'evoluzione del metodo di estrazione in base ai feedback ricevuti.
 
-## Note Metodologiche (Protocollo v1.1)
+## Note Metodologiche (v1.1)
 
 Il dataset è generato attraverso un'analisi ontologica del testo basata su quattro pilastri tecnici:
 
