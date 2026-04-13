@@ -30,8 +30,6 @@ In presenza di sovrapposizione tra piani narrativi, il sistema scompone l'entit�
 #### 4. Ancoraggio Filologico
 Ogni classificazione è validata nel campo `contesto`, che riporta la porzione minima di testo e il marcatore (verbo o avverbio) che determina il regime e il peso assegnato.
 
-4. Ancoraggio Filologico
-Ogni classificazione è validata nel campo contesto, che riporta la porzione minima di testo e il marcatore (verbo o avverbio) che determina il regime e il peso assegnato.
 
 ## Struttura del Repository
 - `METODOLOGIA_v1.1.md`: Il prompt di sistema utilizzato per l'estrazione.
